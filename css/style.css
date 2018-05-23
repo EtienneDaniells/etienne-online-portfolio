@@ -6,10 +6,10 @@ body {
 /*----------NAVIGATION STYLING-----------*/
 
 nav {
-    background-color: rgb(114, 114, 114);
+    background-color: rgb(77, 77, 77);
 }
 .logo {
-    color: rgb(76, 219, 230);
+    color: rgb(255, 255, 255);
     margin: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -35,7 +35,7 @@ nav {
 }
 
 .menu ul li a {
-    color: rgb(76, 219, 230);
+    color: rgb(255, 255, 255);
     text-decoration: none;
     padding: 20px 10px 20px 10px; 
 }
@@ -56,12 +56,12 @@ header {
 }
 
 header h2 {
-    color: black;
+    color: rgb(62, 65, 64);
     margin: 0;
 }
 
 header h1 {
-    color: black;
+    color: rgb(62, 65, 64);
 }
 
 header a{
